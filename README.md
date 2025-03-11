@@ -6,7 +6,6 @@ This project aims to create a multithreaded process manager that can handle mult
 - **`src/`**: Contains the source code files for the process manager, including process handling, scheduling, and dashboard functionalities.
 - **`include/`**: Contains common header files used across the project.
 - **`build/`**: Directory where compiled files will be generated.
-- **`CMakeLists.txt`**: (Optional) CMake configuration file for building the project.
 
 ### Build Instructions
 To build the project using g++:
