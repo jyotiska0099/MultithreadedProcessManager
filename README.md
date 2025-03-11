@@ -11,10 +11,10 @@ This project aims to create a multithreaded process manager that can handle mult
 ### Build Instructions
 To build the project using g++:
 
-g++ -std=c++20 -I./include -pthread src/process.cpp src/scheduler.cpp src/dashboard.cpp src/main.cpp -o build/MultithreadedProcessManager
+- g++ -std=c++20 -I./include -pthread src/process.cpp src/scheduler.cpp src/dashboard.cpp src/main.cpp -o build/MultithreadedProcessManager
 
 ### Run Instructions
 To run the project using terminal in linux/mac:
 
-cd build/
-./MultithreadedProcessManager
+- cd build/
+- ./MultithreadedProcessManager
